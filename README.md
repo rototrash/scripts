@@ -1,5 +1,5 @@
 # simple-automation-scripts
-_**Real simple**_ scripts to automate some of my simple tasks cuz I'm lazy to do it everytime I break my linux install :)
+_**Real simple**_ scripts to automate some of my simple tasks cuz I'm too lazy to do it everytime I break my linux install :)
 
 
 ## 1. `db-bt-pair.sh` : Copy Bluetooth Pairing Info File from Manjaro to Arcolinux and EndeavourOS.  
