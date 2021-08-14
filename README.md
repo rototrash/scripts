@@ -30,6 +30,8 @@ sh krohnkite-toggle.sh
   3. Add the execute command under the `Action` Tab. In my case: `sh /home/siddharth/.my-sh-scripts/krohnkite-toggle.sh`
 
 ## License
-[WTFPL]()
+[WTFPL](https://github.com/siddharth-03s/scripts/blob/main/LICENSE.txt)
+
+All attempts have been made to identify third party content within the repository, with sources and attribution given where necessary. Please contact me if any issues are discovered.
 
 
