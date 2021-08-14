@@ -1,4 +1,4 @@
-# simple-automation-scripts
+# scripts
 _**Real simple**_ scripts to automate some of my simple tasks cuz I'm too lazy to do it everytime I break my linux install :)
 
 
