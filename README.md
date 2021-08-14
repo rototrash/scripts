@@ -29,3 +29,7 @@ sh krohnkite-toggle.sh
   2. Assign the Shortcut-Key under the `Trigger` Tab
   3. Add the execute command under the `Action` Tab. In my case: `sh /home/siddharth/.my-sh-scripts/krohnkite-toggle.sh`
 
+## License
+[WTFPL]()
+
+
