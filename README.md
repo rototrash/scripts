@@ -1,5 +1,5 @@
 # scripts
-_**Real simple**_ scripts to automate some of my simple tasks cuz I'm too lazy to do it everytime I break my linux install :)
+shell scripts xdd to make my life easier
 
 ## 1. `krohnkite-toggle.sh` : Toggle [Krohnkite](https://github.com/esjeon/krohnkite) (Dynamic Tiling extension for KWin) through terminal or a shortcut key.
 
