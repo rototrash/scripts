@@ -1,6 +1,30 @@
 # sh scripts
 collection of some shell scripts 
 
+## <li>`lolban`</li>
+toilet piped through lolcat.
+
+
+Usage:
+1. Make the script executable by `chmod +x lolban`
+2. Put it somewhere in your path so you can call it from anywhere like `/.local/bin`
+
+Requirements: 
+1. `toilet`
+2. `lolcat`
+3. fonts from https://github.com/xero/figlet-fonts
+```
+ ██                   ██  ██           ██             
+░██                  ░██ ░██          ░██             
+░██      ██   ██     ░██ ░██  ██████  ░██       ██████
+░██████ ░██  ░██  ██████ ░██ ░░░░░░██ ░██████  ██░░░░ 
+░██░░░██░██  ░██ ██░░░██ ░██  ███████ ░██░░░██░░█████ 
+░██  ░██░██  ░██░██  ░██ ░██ ██░░░░██ ░██  ░██ ░░░░░██
+░██████ ░░██████░░██████ ███░░████████░██████  ██████ 
+░░░░░    ░░░░░░  ░░░░░░ ░░░  ░░░░░░░░ ░░░░░   ░░░░░░  
+```
+Credits: [budlabs](https://www.youtube.com/channel/UCi8XrDg1bK_MJ0goOnbpTMQ)
+
 ## <li>`toggle-touchpad.sh` : Toggle your laptop's touchpad on/off </li>
 Usage:
 
