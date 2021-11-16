@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# fonts: 3d.flf rebel.tlf 
+
+toilet -f fonts/3d.flf "$1" | lolcat
